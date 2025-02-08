@@ -1,5 +1,5 @@
 ## Hi there 👋
-👋 Hi, I’m Manuel Rugama, an iOS Software Engineer originally from Nicaragua, now based in New York since 2016. I’m passionate about building modular, scalable, and efficient iOS applications, with a strong focus on design systems, performance optimization, and developer tooling.
+👋 Hi, I’m Marlon Rugama, an iOS Software Engineer originally from Nicaragua, now based in New York since 2016. I’m passionate about building modular, scalable, and efficient iOS applications, with a strong focus on design systems, performance optimization, and developer tooling.
 
 What You’ll Find Here
 	•	🚀 iOS Projects – Showcasing my work, from freelance apps to open-source contributions.
